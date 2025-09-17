@@ -1,0 +1,17 @@
+# Ignore raw data
+data/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments (if you create one inside project)
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+data/
